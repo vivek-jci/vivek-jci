@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Chaudhari, can search me on git @vivek-jci
-- 👀 I’m interested in ...
+- 👀 I’m interested in Innovative technologies which contributes to growth.
 - 🌱 I’m currently working on XAAP web development.
 - 💞️ I’m Software developer, mostly worked on web technologies also an Artificial Intelligence enthusiast.
 - 📫 can reach me on vivek.chaudhari@jci.com.
